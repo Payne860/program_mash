@@ -1,9 +1,9 @@
 
 print("welcome to program mash")
 import time 
-print("v0.5-IN")
+print("v0.6-IN")
 time.sleep(0.5) 
-print("programs in v0.5-IN in order")
+print("programs in v0.6-IN in order")
 time.sleep(0.3)
 print("program mash intro")
 time.sleep(0.3)
